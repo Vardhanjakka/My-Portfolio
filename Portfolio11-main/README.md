@@ -1,14 +1,9 @@
-![Logo](Photo.png)
 
-# Amine Portfolio Showcase 💻
+# Vardhan Portfolio Showcase 💻
 
-Welcome to Amine's Portfolio Showcase!
+Welcome to Vardhan's Portfolio Showcase!
 A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using React.js.
 ---
-
-## Live Demo 🚀
-
-You can view the live website here: [Live Demo](https://saboo24.github.io/Portfolio11/)
 
 ---
 
@@ -57,16 +52,13 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: vardhanjakka380@gmail.com   
+- Location:India
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jakka-gnanavardhan-420443287/)  
+- GitHub: [GitHub](https://github.com/Vardhanjakka)  
+- Instagram: [Instagram](https://www.instagram.com/__awesome_me_vardhan___?igsh=cHU4MWY5YWVqYWdr)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Vardhan Jakka**
 
-
-```bash
-git clone https://github.com/Saboo24/portofolio11.git
